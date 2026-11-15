@@ -2,7 +2,7 @@
 
 # Adam Ghazy Al Falah
 
-Full-Stack dan Mobile Developer. Fokus di Laravel, React.js, dan Flutter, dengan pengalaman membangun aplikasi internal perusahaan, layanan publik, dan produk yang dipakai ribuan orang setiap hari.
+Full-Stack dan Mobile Developer dengan Laravel, React.js, dan Flutter - membangun aplikasi yang praktis, sistem yang andal, dan produk yang menyelesaikan masalah nyata
 
 </div>
 
