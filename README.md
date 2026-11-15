@@ -1,30 +1,33 @@
 <div align="center">
 
-# Adam
+# Adam Ghazy Al Falah
 
-Bikin bot, trading tools, dan sesekali bobol hal buat cari tahu cara kerjanya.
+Full-Stack dan Mobile Developer. Fokus di Laravel, React.js, dan Flutter, dengan pengalaman membangun aplikasi internal perusahaan, layanan publik, dan produk yang dipakai ribuan orang setiap hari.
 
 </div>
 
-## Yang gue kerjain
+## Pengalaman singkat
 
-- Bot Telegram: forwarder, sniper, auto-trader
-- Trading tools buat Solana dan perp
-- Web3: bridge, on-chain tooling
-- Security research: recon, audit, validasi exploit
+- Full-Stack Developer Intern di PT Industri Kereta Api (Persero) - digitalisasi sistem inspeksi dan surat jalan online
+- Mobile App Developer (Flutter) di Politeknik Elektronika Negeri Surabaya - membangun dan meluncurkan FoodLAB, aplikasi pemesanan makanan kampus dengan 300+ pengguna aktif
+- Mobile App Developer di Kantor Kelurahan Gebang Putih - sistem antrean layanan publik real-time
+- Web Developer Intern di PT Industri Kereta Api (Persero) - aplikasi internal HR berbasis Laravel
 
-## Stack
+## Yang biasa gue garap
 
-TypeScript, Python, Flutter, PHP, C++
+- Backend: Laravel, REST API, MySQL, WebSocket
+- Frontend: React.js, HTML/CSS
+- Mobile: Flutter (Dart), Provider, push notification, publish ke Google Play Store
+- Infrastruktur: Docker, Firebase, Git
 
 ## Proyek
 
-- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - auto buy koin Solana by CA yang ke-detect dari beberapa grup/channel Telegram
+- [internship-portal](https://github.com/Adam-Ghazy/internship-portal) - Portal Magang INKA, pendaftaran dan manajemen peserta magang
+- [portofolio](https://github.com/Adam-Ghazy/portofolio) - website portofolio pribadi
+- [gumnly](https://github.com/Adam-Ghazy/gumnly) - produk SaaS dan jasa software engineering
+- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - bot otomatisasi Telegram antar channel/grup
 - [Arc-Bridge](https://github.com/Adam-Ghazy/Arc-Bridge) - bridge USDC dari Base ke Arc via Circle Gateway
-- [gumnly](https://github.com/Adam-Ghazy/gumnly) - SaaS dan jasa software engineering
-- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - forwarder pesan Telegram antar channel/grup
-- [internship-portal](https://github.com/Adam-Ghazy/internship-portal) - Portal Magang INKA
-- [portofolio](https://github.com/Adam-Ghazy/portofolio) - website portofolio
+- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - trading bot Solana dengan deteksi koin real-time
 
 ## Stats
 
