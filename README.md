@@ -33,7 +33,7 @@ Full-Stack dan Mobile Developer dengan Laravel, React.js, dan Flutter. Membangun
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Adam-Ghazy&show_icons=true&hide_border=true&bg_color=00000000" alt="stats" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Ghazy&layout=compact&hide_border=true&bg_color=00000000" alt="langs" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Adam-Ghazy&theme=transparent" alt="profile" height="150"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Adam-Ghazy&theme=transparent" alt="langs" height="150"/>
 
 </div>
