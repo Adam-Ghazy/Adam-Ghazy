@@ -2,25 +2,25 @@
 
 # Adam Ghazy Al Falah
 
-Full-Stack dan Mobile Developer dengan Laravel, React.js, dan Flutter. Membangun aplikasi yang praktis, sistem yang andal, dan produk yang menyelesaikan masalah nyata
+Full-Stack and Mobile Developer with Laravel, React.js, and Flutter. Building practical applications, reliable systems, and products that solve real-world problems
 
 </div>
 
-## Skill
+## Skills
 
 - Backend: Laravel, REST API, MySQL, WebSocket
 - Frontend: React.js, HTML/CSS
-- Mobile: Flutter (Dart), Provider, push notification, publish ke Google Play Store
-- Infrastruktur: Docker, Firebase, Git
+- Mobile: Flutter (Dart), Provider, push notifications, Google Play Store publishing
+- Infrastructure: Docker, Firebase, Git
 
-## Proyek
+## Projects
 
-- [internship-portal](https://github.com/Adam-Ghazy/internship-portal) - Portal Magang INKA, pendaftaran dan manajemen peserta magang
-- [portofolio](https://github.com/Adam-Ghazy/portofolio) - website portofolio pribadi
-- [gumnly](https://github.com/Adam-Ghazy/gumnly) - produk SaaS dan jasa software engineering
-- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - bot otomatisasi Telegram antar channel/grup
-- [Arc-Bridge](https://github.com/Adam-Ghazy/Arc-Bridge) - bridge USDC dari Base ke Arc via Circle Gateway
-- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - trading bot Solana dengan deteksi koin real-time
+- [internship-portal](https://github.com/Adam-Ghazy/internship-portal) - INKA internship portal for registration and participant management
+- [portofolio](https://github.com/Adam-Ghazy/portofolio) - personal portfolio website
+- [gumnly](https://github.com/Adam-Ghazy/gumnly) - SaaS products and software engineering services
+- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - Telegram automation bot for forwarding messages between channels/groups
+- [Arc-Bridge](https://github.com/Adam-Ghazy/Arc-Bridge) - bridge USDC from Base to Arc via Circle Gateway
+- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - Solana trading bot with real-time token detection
 
 ## Stats
 
