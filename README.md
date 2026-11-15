@@ -13,7 +13,7 @@ Full-Stack dan Mobile Developer dengan Laravel, React.js, dan Flutter - membangu
 - Mobile App Developer di Kantor Kelurahan Gebang Putih - sistem antrean layanan publik real-time
 - Web Developer Intern di PT Industri Kereta Api (Persero) - aplikasi internal HR berbasis Laravel
 
-## Yang biasa gue garap
+## Skill
 
 - Backend: Laravel, REST API, MySQL, WebSocket
 - Frontend: React.js, HTML/CSS
