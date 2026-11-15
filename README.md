@@ -2,33 +2,29 @@
 
 # Adam
 
-Backend developer dan security researcher. Bikin automation, trading tools, dan web3 tooling. Sebagian besar proyek di sini lahir dari masalah nyata yang gue hadapi sendiri.
+Bikin bot, trading tools, dan sesekali bobol hal buat cari tahu cara kerjanya.
 
 </div>
 
 ## Yang gue kerjain
 
-- Automation dan bot (Telegram, sniping, forwarder)
-- Trading tools untuk Solana dan perpetual futures
-- Web3 tooling, termasuk bridge dan on-chain tooling
-- Security research: recon, audit, dan exploit validation
+- Bot Telegram: forwarder, sniper, auto-trader
+- Trading tools buat Solana dan perp
+- Web3: bridge, on-chain tooling
+- Security research: recon, audit, validasi exploit
 
 ## Stack
 
-- TypeScript
-- Python
-- Flutter / Dart
-- PHP
-- C++
+TypeScript, Python, Flutter, PHP, C++
 
-## Proyek pilihan
+## Proyek
 
-- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - auto buy koin Solana by CA dari beberapa grup/channel Telegram
-- [Arc-Bridge](https://github.com/Adam-Ghazy/Arc-Bridge) - bridge USDC dari Base ke Arc via Circle Gateway dengan fee router on-chain
-- [gumnly](https://github.com/Adam-Ghazy/gumnly) - GUMNLY Tech, SaaS products and software engineering
-- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - bot forwarder pesan Telegram antar channel/grup dengan filter
+- [sniper-solana](https://github.com/Adam-Ghazy/sniper-solana) - auto buy koin Solana by CA yang ke-detect dari beberapa grup/channel Telegram
+- [Arc-Bridge](https://github.com/Adam-Ghazy/Arc-Bridge) - bridge USDC dari Base ke Arc via Circle Gateway
+- [gumnly](https://github.com/Adam-Ghazy/gumnly) - SaaS dan jasa software engineering
+- [Forwarder-Message-TG](https://github.com/Adam-Ghazy/Forwarder-Message-TG) - forwarder pesan Telegram antar channel/grup
 - [internship-portal](https://github.com/Adam-Ghazy/internship-portal) - Portal Magang INKA
-- [portofolio](https://github.com/Adam-Ghazy/portofolio) - website portofolio pribadi
+- [portofolio](https://github.com/Adam-Ghazy/portofolio) - website portofolio
 
 ## Stats
 
@@ -38,7 +34,3 @@ Backend developer dan security researcher. Bikin automation, trading tools, dan 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adam-Ghazy&layout=compact&hide_border=true&bg_color=00000000" alt="langs" height="150"/>
 
 </div>
-
-## Kontak
-
-Buka issue di repo mana pun, atau DM lewat kolom Discussions di [gumnly](https://github.com/Adam-Ghazy/gumnly).
