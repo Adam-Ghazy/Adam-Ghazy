@@ -6,13 +6,6 @@ Full-Stack dan Mobile Developer dengan Laravel, React.js, dan Flutter. Membangun
 
 </div>
 
-## Pengalaman singkat
-
-- Full-Stack Developer Intern di PT Industri Kereta Api (Persero) - digitalisasi sistem inspeksi dan surat jalan online
-- Mobile App Developer (Flutter) di Politeknik Elektronika Negeri Surabaya - membangun dan meluncurkan FoodLAB, aplikasi pemesanan makanan kampus dengan 300+ pengguna aktif
-- Mobile App Developer di Kantor Kelurahan Gebang Putih - sistem antrean layanan publik real-time
-- Web Developer Intern di PT Industri Kereta Api (Persero) - aplikasi internal HR berbasis Laravel
-
 ## Skill
 
 - Backend: Laravel, REST API, MySQL, WebSocket
